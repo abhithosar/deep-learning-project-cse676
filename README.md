@@ -16,3 +16,6 @@ To run the code, you can open notebook file in google colab or jupyter runtime.
 You will need GPU to run the code.
 
 
+# Pretrained weights for model
+
+        https://drive.google.com/drive/folders/12fRno8ovWJKDG6cs1_qfUBFIqNttqIeC?usp=sharing
